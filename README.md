@@ -34,44 +34,12 @@ I'm a passionate Flutter developer with a deep love for creating elegant and fun
   ![Screenshot 1](https://github.com/AmirHameed/beehive/blob/main/assets/Screenshot_2023-10-04-15-26-22-626_com.appforce.beehive.jpg)
   *Caption: Restaurant Menu*
 
-  ![Screenshot 2](https://ibb.co/9bnFS1h)
-  *Caption: Shopping Cart*
-
-- **Code Snippet:**
-
-  ```dart
-  // Example Flutter code snippet
-  
-  // Function to add an item to the shopping cart
-  void addToCart(MenuItem item) {
-    setState(() {
-      cartItems.add(item);
-    });
-  }
-  
-  // Function to place an order
-  Future<void> placeOrder(List<MenuItem> cartItems) async {
-    try {
-      final response = await http.post('https://api.foodiedelight.com/place-order', body: jsonEncode(cartItems));
-      if (response.statusCode == 200) {
-        final orderStatus = json.decode(response.body);
-        // Display order confirmation to the user
-        print('Order Placed: $orderStatus');
-      } else {
-        throw Exception('Failed to place the order');
-      }
-    } catch (error) {
-      // Handle error gracefully
-      print('Error: $error');
-    }
-  }
-
-### Project 2: [Another App](https://github.com/yourusername/another-app)
+### Project 2: [Mx App](https://github.com/AmirHameed/mx)
 
 - Description: Provide a brief overview of the second project.
 - Technologies Used: List the relevant technologies.
 - Screenshots: Showcase the app's user interface.
-- [GitHub Repository](https://github.com/yourusername/another-app)
+- [GitHub Repository](https://github.com/AmirHameed/mx)
 
 ## Achievements
 
