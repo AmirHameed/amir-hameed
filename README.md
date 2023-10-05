@@ -36,7 +36,7 @@ I'm a passionate Flutter developer with a deep love for creating elegant and fun
   ![Screenshot 1](https://ibb.co/9bnFS1h)
   *Caption: Restaurant Menu*
 
-  ![Screenshot 2](screenshots/cart.png)
+  ![Screenshot 2](https://ibb.co/9bnFS1h)
   *Caption: Shopping Cart*
 
 - **Code Snippet:**
