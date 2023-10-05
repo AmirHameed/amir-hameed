@@ -23,9 +23,7 @@ I'm a passionate Flutter developer with a deep love for creating elegant and fun
 
 ## Portfolio
 
-### Project 1: [BeeHive](https://github.com/AmirHameed/beehive)
-
-### Project 1: BeeHive User Side - Restaurant Ordering App
+### Project 1: [BeeHive User Side - Restaurant Ordering App](https://github.com/AmirHameed/beehive)
 
 - **Description:** Foodie Delight is a Flutter-based mobile app that allows users to browse a restaurant's menu, select items, add them to their cart, and place orders for delicious meals. It simplifies the process of ordering food from your favorite restaurants, ensuring a convenient and delightful dining experience.
 
@@ -83,6 +81,6 @@ I'm a passionate Flutter developer with a deep love for creating elegant and fun
 ## Contact
 
 - 📧 Email: amirhameed012@gmail.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/amir-hameed-035452146/)
+- LinkedIn: [AmirHameed/FlutterDeveloper](https://www.linkedin.com/in/amir-hameed-035452146/)
 
 Feel free to reach out if you'd like to collaborate or have any questions about my work. Let's connect!
