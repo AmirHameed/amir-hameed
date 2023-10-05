@@ -33,7 +33,7 @@ I'm a passionate Flutter developer with a deep love for creating elegant and fun
 
 - **Screenshots:**
 
-  ![Screenshot 1](screenshots/menu.png)
+  ![Screenshot 1](https://ibb.co/9bnFS1h)
   *Caption: Restaurant Menu*
 
   ![Screenshot 2](screenshots/cart.png)
