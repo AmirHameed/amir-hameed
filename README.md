@@ -34,7 +34,7 @@ I'm a passionate Flutter developer with a deep love for creating elegant and fun
 
   ![Screenshot 1](https://github.com/AmirHameed/beehive/blob/main/assets/Screenshot_2023-10-04-15-26-22-626_com.appforce.beehive.jpg)
   *Caption: Restaurant Menu*
-  ![Screenshot 1]<img src="https://github.com/AmirHameed/beehive/blob/main/assets/Screenshot_2023-10-04-15-26-22-626_com.appforce.beehive.jpg" width="100" height="100">
+  <img src="https://github.com/AmirHameed/beehive/blob/main/assets/Screenshot_2023-10-04-15-26-22-626_com.appforce.beehive.jpg" width="100" height="250">
 
 ### Project 2: [Mx App](https://github.com/AmirHameed/mx)
 
