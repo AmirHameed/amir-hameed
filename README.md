@@ -68,11 +68,11 @@ I'm a passionate Flutter developer with a deep love for creating elegant and fun
   
 - **Screenshots:**
 
-<img src="https://github.com/AmirHameed/refine/blob/main/assets/1.%20Splash.jpg" width="100" height="250">
-<img src="https://github.com/AmirHameed/refine/blob/main/assets/2.%20Login.jpg" width="100" height="250">
-<img src="https://github.com/AmirHameed/refine/blob/main/assets/6.%20Home.jpg" width="100" height="250">
-<img src="https://github.com/AmirHameed/refine/blob/main/assets/7.%20Detail.jpg" width="100" height="250">
-<img src="https://github.com/AmirHameed/refine/blob/main/assets/16.%20Mentor%20Profile.jpg" width="100" height="250">
+  <img src="https://github.com/AmirHameed/refine/blob/main/assets/1.%20Splash.jpg" width="100" height="250">
+  <img src="https://github.com/AmirHameed/refine/blob/main/assets/2.%20Login.jpg" width="100" height="250">
+  <img src="https://github.com/AmirHameed/refine/blob/main/assets/6.%20Home.jpg" width="100" height="250">
+  <img src="https://github.com/AmirHameed/refine/blob/main/assets/7.%20Detail.jpg" width="100" height="250">
+  <img src="https://github.com/AmirHameed/refine/blob/main/assets/16.%20Mentor%20Profile.jpg" width="100" height="250">
 - [GitHub Repository](https://github.com/AmirHameed/refine)
 
 ## Achievements
