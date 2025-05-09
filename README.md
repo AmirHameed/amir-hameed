@@ -1,4 +1,4 @@
-# [Amir Hameed]
+# Amir Hameed
 ![Screenshot1](https://github.com/AmirHameed/beehive/blob/main/assets/Navy%20Modern%20Marketing%20Expert%20LinkedIn%20Banner.png)
 
 Flutter Developer | Mobile App Enthusiast
